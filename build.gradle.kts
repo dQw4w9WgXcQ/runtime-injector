@@ -2,7 +2,7 @@ plugins {
     java
 }
 
-group = "dqw4w9wgxcq"
+group = "dqw4w9wgxcq.injector"
 version = "1.0"
 
 repositories {
