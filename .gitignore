@@ -1,0 +1,7 @@
+target
+*.iml
+.idea/
+!gradle-wrapper.jar
+.gradle/
+**/build/*
+*/out/
